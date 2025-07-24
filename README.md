@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">💻 Ethical Hacker | 🐧 Linux Enthusiast | 🚀 Building Cool Stuff</h3>
+<h1 align="center">Hi 👋, I'm Kuldeep</h1>
+<h3 align="center">💻 Techieyy | 🐧 Linux Enthusiast | 🚀 Building Cool Stuff</h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
@@ -11,8 +11,8 @@
 ---
 
 📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kuldeepp23)  
+
 
 ---
 
