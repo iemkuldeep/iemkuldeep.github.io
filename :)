@@ -1,0 +1,34 @@
+## 🎲 Choose a Number — Reveal Your Hacker Personality
+
+👋 Welcome, mysterious visitor.  
+Pick a number between **1 and 6** — keep it in your mind. Don't scroll yet.  
+Your chosen number will reveal your **hacker dev personality**...
+
+---
+
+<details>
+<summary>🧠 I'm ready to reveal my number</summary>
+
+### 💀 Hacker Personality Results
+
+| Number | Personality Type |
+|--------|------------------|
+| **1**  | **The Recon Ghost** 👻  
+Silently collects everything. Open ports, metadata, linked hosts — you don't miss a thing. OSINT is your weapon.
+
+| **2**  | **The Payload Artist** 🎯  
+Crafts shellcode like poetry. You don’t use Metasploit — you *are* Metasploit.
+
+| **3**  | **The Social Wizard** 🕵️  
+You hack humans more than machines. You know how to make people click — and how to trace the trail they left behind.
+
+| **4**  | **The Shell Samurai** 🐚  
+Lives in the terminal. Vim, tmux, nmap, curl — the command line is your dojo.
+
+| **5**  | **The Bug Hunter** 🐞  
+You chase bounties across the web. You're fast, methodical, and APIs are your playground.
+
+| **6**  | **The Architect** 🧱  
+You break systems not just for fun — but to understand and rebuild them better. Infra, cloud, CI/CD — you wield them all.
+
+</details>
